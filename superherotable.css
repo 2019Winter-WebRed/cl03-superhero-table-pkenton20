@@ -1,0 +1,22 @@
+/*
+* Paige Kenton
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {}
+
+table, td, th {border: 1px solid blue;} /* This controls the thickness and color of the border */
+
+table {border-collapse: collapse;} /* This removes the space around cells of the border */
+
+thead {background-color: mistyrose;} /* This changes the background color of the head section */
+tfoot {background-color: skyblue;} /* This changes the background color of the foot section */
